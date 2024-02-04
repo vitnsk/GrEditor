@@ -1,0 +1,45 @@
+﻿  GrShapes.cpp
+D:\VC_D\repos\GrEditor\VKR_15\GrShapes.cpp(285,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrShapes.cpp(325,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrShapes.cpp(326,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  GrForm.cpp
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(192,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(192,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(196,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(196,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(203,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(203,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(208,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(208,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(215,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(215,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(220,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(220,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(226,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(226,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(239,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(239,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(240,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(241,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(351,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(351,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(364,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(365,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(1070,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(1071,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(1072,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(1076,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(1077,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(1078,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(1082,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(1083,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(1084,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(1088,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(1089,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(1090,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\VC_D\repos\GrEditor\VKR_15\GrForm.cpp(1196,11): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+D:\VC_D\repos\GrEditor\VKR_15\GrShapes.cpp(84): warning C4700: использована неинициализированная локальная переменная "t"
+  GrShapes.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  VKR_15.vcxproj -> D:\VC_D\repos\GrEditor\x64\Debug\VKR_15.exe

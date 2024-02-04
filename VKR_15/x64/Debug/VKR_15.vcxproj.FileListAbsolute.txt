@@ -1,0 +1,10 @@
+D:\VC_D\repos\VKR_15\VKR_15\x64\Debug\VKR_15.vcxproj.AssemblyReference.cache
+D:\VC_D\repos\VKR_15\VKR_15\x64\Debug\VKR_15.vcxproj.SuggestedBindingRedirects.cache
+D:\VC_D\repos\VKR_15\VKR_15\x64\Debug\VKR15.GrForm.resources
+D:\VC_D\repos\VKR_15\VKR_15\x64\Debug\VKR_15.vcxproj.GenerateResource.cache
+D:\VC_D\repos\VKR_PVL\VKR_15\x64\Debug\VKR_15.vcxproj.AssemblyReference.cache
+D:\VC_D\repos\VKR_PVL\VKR_15\x64\Debug\VKR15.GrForm.resources
+D:\VC_D\repos\VKR_PVL\VKR_15\x64\Debug\VKR_15.vcxproj.GenerateResource.cache
+D:\VC_D\repos\GrEditor\VKR_15\x64\Debug\VKR_15.vcxproj.AssemblyReference.cache
+D:\VC_D\repos\GrEditor\VKR_15\x64\Debug\VKR15.GrForm.resources
+D:\VC_D\repos\GrEditor\VKR_15\x64\Debug\VKR_15.vcxproj.GenerateResource.cache
